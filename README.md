@@ -5,8 +5,10 @@ Refer to the [documentation](https://lazyvim.github.io/installation) to get star
 
 这是一个临时的配置，后续慢慢推进文档。
 
-# 快捷键(<leader> == `space`)
+# 快捷键
 常用的快捷键，后续更新其他快捷键及改进键位
+
+- (`<leader>` == `space`)
 
 - `Lazy 插件管理器面板`:`<leader> + l`
 - `mason LSP 管理面板`:`<leader> + c + m`
