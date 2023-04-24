@@ -8,7 +8,7 @@ Refer to the [documentation](https://lazyvim.github.io/installation) to get star
 
 # 快捷键
 - 仅适合此配置
-- (leader = `space`) 下面用<\LD>表示
+- (leader = `space`)
 - Normal = `N` Insert = `I` Visual = `V` Select = `S` 	
 
 |                            	|             操作描述             	|                     KEY                    	|                           可用模式                            |                                                            备注，补充                                                             |             相关插件，函数             	|
