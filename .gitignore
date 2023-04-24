@@ -9,3 +9,4 @@ data
 Session.vim
 misc/undodir/*
 session/*
+lazy-lock.json
